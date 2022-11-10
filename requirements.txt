@@ -1,0 +1,10 @@
+soundfile
+torch
+torchaudio
+transformers
+pyaudio
+webrtcvad
+rx
+halo
+onnx
+onnxruntime
